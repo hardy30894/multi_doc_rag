@@ -1,0 +1,174 @@
+question,documents_referenced,expected_answer
+"How many total shares of common stock did Lyft and Uber each report as outstanding at the dates specified in their documents, and which exchange(s) are their shares listed on according to those filings?","[Chunk 1 — Uber 10-K excerpt]
+The number of shares of the registrant's common stock outstanding as of February 11, 2025 was 2,089,008,865.
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant's Definitive Proxy Statement relating to the Annual Meeting of Stockholders are incorporated by reference into
+Part III of this Annual Report on Form 10-K where indicated. Such Definitive Proxy Statement will be filed with the Securities and
+Exchange Commission within 120 days after the end of the registrant's fiscal year ended December 31, 2024.
+
+Title of each class   Trading Symbol(s)    Name of each exchange on which registered
+Common Stock, par value $0.00001 per share   UBER   New York Stock Exchange
+
+[Chunk 2 — Lyft 10-K excerpt]
+The number of shares of the registrant's common stock outstanding as of February 10, 2025 was 409,477,927 shares of Class A common stock and
+8,530,629 shares of Class B common stock. 
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant's Proxy Statement for the 2025 Annual Meeting of Stockholders are incorporated herein by reference in Part III.
+
+Title of each class   Trading Symbol(s)    Name of each exchange on which registered
+Class A common stock, par value of $0.00001 per share  LYFT   Nasdaq Global Select Market","As of the dates shown, Uber reported 2,089,008,865 shares of its common stock outstanding, listed on the New York Stock Exchange under the symbol “UBER.” Lyft reported 409,477,927 shares of Class A and 8,530,629 shares of Class B, with its Class A common stock listed on the Nasdaq Global Select Market under “LYFT.”"
+"Which two key ways do both Lyft and Uber claim to reduce cost and minimize wait times for riders, based on each company's data-driven network advantage, as described in their annual reports?","[Chunk 1 — Uber 10-K excerpt]
+Our massive, efficient, and intelligent network consists of tens of millions of Drivers, consumers, Merchants, Shippers, and Carriers, 
+as well as underlying data, technology, and shared infrastructure. Our network becomes smarter with every trip. In more than 15,000 
+cities around the world (as of December 31, 2024), our network powers movement at the touch of a button for millions, and we hope 
+eventually billions, of people. We leverage our scale and data to help reduce wait times, match supply and demand, and optimize 
+pricing in real-time.
+
+[Chunk 2 — Lyft 10-K excerpt]
+We believe our scale and global availability allows our Mobility segment to offer better consumer experiences to riders in a variety of 
+vehicle types, providing consumers with higher reliability and Drivers with better earnings opportunities. Mobility also includes activity 
+related to our financial partnerships products and advertising. We leverage predictive technology and advanced dispatch algorithms 
+to help reduce wait times and costs, matching riders with the nearest drivers in real-time.",Both companies highlight using (1) large-scale data analysis to match riders with nearby drivers quickly and (2) real-time optimization of pricing and dispatch to reduce costs and wait times.
+"From these GoDaddy and Shopify excerpts, what are the primary ways each company claims to help small businesses or entrepreneurs establish their online presence?","[Chunk 1 — GoDaddy 10-K excerpt]
+GoDaddy is a global leader serving a large market of entrepreneurs, developing and delivering easy-to-use solutions as a one-stop shop
+provider, alongside personalized guidance. We serve small businesses, individuals, organizations, developers, designers and domain 
+investors. Our product offerings include domain registrations, hosting and presence products, email and productivity solutions, and 
+commerce enabling tools. We believe we empower entrepreneurs everywhere, making opportunity more inclusive for all by enabling 
+them to bring their ideas to life online.
+
+[Chunk 2 — Shopify 10-K excerpt]
+Shopify is a leading global commerce technology company, offering trusted tools to start, scale, market and run a business of any size.
+Our platform allows merchants to manage and sell across a variety of channels and geographies, including online storefronts, physical 
+retail spaces, social media, and more. We believe our solutions enable merchants to seamlessly build a professional online presence, 
+process payments, and connect with consumers to foster growth.","GoDaddy emphasizes acting as a one-stop shop with domains, hosting, presence products, email, and commerce tools plus personalized guidance. Shopify focuses on a commerce platform for online presence, multichannel sales, and payment processing. Both aim to help entrepreneurs easily start and grow an online business."
+"According to statements in Shopify's and GoDaddy's filings, which categories of merchants or organizations do they target, and what broad sets of products do they each offer?","[Chunk 1 — Shopify 10-K excerpt]
+Our merchants represent a wide array of retail verticals and business sizes, and no single merchant has ever represented more than 
+five percent of our total revenues in a single reporting period. We serve small and medium-sized businesses, direct-to-consumer 
+brands, as well as enterprise-level organizations using Shopify Plus. We provide a robust platform designed to help these merchants 
+sell online, across various social platforms, and offline in physical stores, all supported by our technology and partner ecosystem.
+
+[Chunk 2 — GoDaddy 10-K excerpt]
+We are built to serve the needs of customers of all sizes by providing easy-to-use products on an integrated technology platform 
+wrapped with personalized guidance. Our customers include small businesses, individuals, organizations, developers, designers, and 
+domain investors. We offer domain registrations, hosting, website building, brand design, email, and commerce tools to help them 
+create and grow their online presence.","Shopify's merchants range from small and medium-sized businesses to larger enterprise brands, while GoDaddy serves small businesses, individuals, developers, designers, and domain investors. Shopify provides a commerce platform for online/offline sales, and GoDaddy offers domain registrations, hosting, website building, email, and commerce tools."
+"Comparing Lyft and Uber, which company states it has three operating/reportable segments, and which company claims it has two segments, based on the references provided?","[Chunk 1 — Uber 10-K excerpt]
+As of December 31, 2024, we had three operating and reportable segments: Mobility, Delivery and Freight. Mobility, Delivery and 
+Freight platform offerings each address large, fragmented markets. Mobility connects riders with drivers. Delivery spans food 
+preparation and grocery delivery. Freight connects shippers and carriers. Our technology is available in over 70 countries around the 
+world, principally in the United States, Canada, Latin America, Europe, the Middle East, Africa, and Asia Pacific.
+
+[Chunk 2 — Lyft 10-K excerpt]
+We manage and report our business in the following two segments:
+• Applications and Commerce (A&C), which primarily consists of sales of products containing proprietary software,
+notably our website building products, as well as our proprietary commerce solutions and third-party email and
+productivity solutions and sales of certain products when they are included in bundled offerings of our proprietary
+software products.
+• Core Platform (Core), which primarily consists of sales of domain registrations and renewals, aftermarket domain sales,
+domain protection, website hosting products, etc.","Uber reports three segments (Mobility, Delivery, and Freight), while (based on the chunk text here) GoDaddy (incorrectly labeled as “Lyft 10-K excerpt” in the chunk) has two segments (Applications and Commerce, and Core Platform). The first chunk is Uber's, the second chunk is from GoDaddy, despite the labeling reference."
+"From the disclosures of Uber and Shopify, describe how each company expects to address “autonomous vehicle technologies” or “autonomous” solutions. Summarize each company's stated approach in these references.","[Chunk 1 — Uber 10-K excerpt]
+We have invested, and we may continue to invest, substantial amounts in companies with whom we partner to offer autonomous 
+vehicle technologies on our platform. We believe that autonomous vehicle technologies present significant opportunities. Several 
+companies are developing autonomous vehicle technologies, and we expect that they will use such technology to further compete 
+with us in the mobility, delivery, or logistics industries. We have formed partnerships to make sure our platform can offer rides in 
+autonomous vehicles as well.
+
+[Chunk 2 — Shopify 10-K excerpt]
+Although our merchant-focused model means we do not directly build or invest in autonomous vehicle or drone technologies, we do 
+observe the logistics sector closely, including novel means of delivery. While we do not currently offer autonomous delivery features, 
+we remain open to partnerships if it aligns with merchant needs. Our focus remains on providing an integrated commerce platform 
+rather than developing autonomy solutions.","Uber invests in partnerships and technology aimed at offering autonomous vehicle solutions on its platform, while Shopify does not directly build or fund autonomous vehicles but may partner for future merchant delivery needs."
+"Consulting statements from Lyft and GoDaddy, which company more directly describes operating a “point-of-sale system” for in-person payments, and which offers “Smart Terminal” devices?","[Chunk 1 — Lyft 10-K excerpt]
+We connect consumers with a wide range of transportation modalities, such as ridesharing, carsharing, micromobility, rentals, 
+public transit, taxis, and more—helping customers go almost anywhere. We believe our scale and global availability allows our 
+Mobility segment to offer better consumer experiences. We use marketplace technologies, routing, and payments to link drivers with riders. 
+
+[Chunk 2 — GoDaddy 10-K excerpt]
+We aim to lead the small business commerce market by enabling our customers to sell directly online, in-person and across multiple 
+channels. Our suite of Commerce solutions includes GoDaddy Payments, point-of-sale systems that unify transaction management 
+for in-person and online sales, and our Smart Terminal line of hardware with integrated payments. We continue to invest 
+to deliver hardware solutions, including our flagship countertop Smart Terminal and our compact Smart Terminal Flex.",Lyft focuses on connecting drivers and riders via ridesharing and other transportation modes; it does not specifically describe point-of-sale systems or “Smart Terminal” devices. GoDaddy explicitly offers a POS system and a “Smart Terminal” hardware line for in-person payments.
+"Which of these two companies (Shopify and Lyft) explicitly discusses “autonomous vehicle classification litigation” or “driver classification matters” in its disclosures, and which generally references assisting “merchants” with commerce?","[Chunk 1 — Shopify 10-K excerpt]
+We develop new technologies to enhance existing offerings and continue to expand the range of our products. Our focus is on 
+merchant success. We are building products so merchants can more easily facilitate commerce across all channels, from online 
+to physical retail, to social media. While we remain mindful of new and evolving markets, we generally do not develop 
+autonomous driving solutions or driver classification programs.
+
+[Chunk 2 — Lyft 10-K excerpt]
+We have encountered litigation regarding driver classification and numerous legal proceedings globally, including claims that 
+drivers should be treated as employees rather than as independent contractors. These matters could require us to alter our existing 
+business model, pay significant costs or cease operations in affected jurisdictions. We also face competition from other 
+transportation network companies and are subject to TNC regulations.",Lyft (in Chunk 2) explicitly mentions litigation over driver classification and potential changes to its business model. Shopify (in Chunk 1) focuses on assisting merchants with commerce and does not discuss “autonomous vehicle classification” or “driver classification.”
+"According to statements in Shopify's and GoDaddy's filings, which company states a significant portion of its customer base is outside the U.S., and which references “pay parity” and “employee representation in Germany”?","[Chunk 1 — Shopify 10-K excerpt]
+We had millions of merchants from more than 175 countries using our platform as of December 31, 2024, which were geographically 
+dispersed as follows: 45% in the United States, 30% in Europe, the Middle East and Africa, 15% in Asia Pacific, Australia and China, 
+5% in Canada and 5% in Latin America. We believe that the broad distribution of our merchants reflects the global appeal of 
+our commerce solutions.
+
+[Chunk 2 — GoDaddy 10-K excerpt]
+Our people and unique culture have been integral to our success. As of December 31, 2024, we employed 5,518 people worldwide, 
+with some employees in Germany represented by employee works councils. We published an annual diversity and pay parity report 
+stating that, according to our analysis, we compensate employees of color and white employees substantially the same for performing
+similar jobs across the company.","Shopify reports that a large share (roughly 55%) of its merchants is based outside the U.S., whereas GoDaddy references its pay parity practices and mentions having employees represented by works councils in Germany."
+"Reviewing GoDaddy and Uber, which of these references hosting solutions “including cPanel, Plesk, Drupal, Joomla” favored by WebPros, and which references offering “Freight” for shippers and carriers?","[Chunk 1 — GoDaddy 10-K excerpt]
+For more technically sophisticated WebPros and other customers, we provide hosting and security products using a variety of open-source 
+design tools including cPanel, Plesk, Drupal, and Joomla. We also design these products to be easy to use, effective, reliable, flexible 
+and at an excellent value.
+
+[Chunk 2 — Uber 10-K excerpt]
+We have three operating and reportable segments: Mobility, Delivery, and Freight. We believe Freight is revolutionizing the logistics
+industry by connecting shippers and carriers in a digital marketplace. Freight powers a managed transportation and logistics network 
+and connects Shippers and Carriers, giving Carriers upfront, transparent pricing.","GoDaddy (Chunk 1) references hosting with open-source tools (cPanel, Plesk, Drupal, Joomla). Uber (Chunk 2) references a “Freight” segment connecting shippers and carriers in a digital marketplace."
+"Comparing Lyft and Shopify, which company states it is primarily involved in “ride services” across a network of drivers and references “non-autonomous vehicles,” and which is a platform focusing on “restaurants, grocery and retail categories for delivery”?","[Chunk 1 — Lyft 10-K excerpt]
+Our offerings on the Lyft App include an expanded set of transportation modes in select cities, such as access to a network of 
+shared bikes and scooters (“Light Vehicles”) for shorter rides. Our ridesharing marketplace connects drivers with riders. 
+We sometimes refer to riders as passengers who request rides from drivers in our Mobility segment. 
+
+[Chunk 2 — Uber 10-K excerpt]
+Our Delivery offering allows consumers to discover the best of local commerce—from restaurants to grocery, alcohol, convenience 
+and other retailers—and either pick it up at the restaurant or have it delivered. We refer to the grocery, alcohol, convenience 
+and retail categories collectively as Grocery & Retail. Our Delivery business has expanded to include Uber Direct, our white-label 
+Delivery-as-a-Service offering, as well as advertising opportunities.","Lyft is primarily engaged in ride services connecting drivers with riders and references bikes, scooters, and “non-autonomous vehicles.” Uber, in its “Delivery” segment, focuses on restaurants, grocery and retail categories, with pickup or local delivery."
+"According to the GoDaddy excerpt and the Lyft, which company's filing specifically mentions “micromobility, rentals, and carsharing” and which focuses on “domain registrations, hosting products, and website security products” in its Core segment?","[Chunk 1 — GoDaddy 10-K excerpt]
+We manage and report our business in the following two segments:
+• Applications and Commerce (A&C), primarily sales of proprietary software solutions (website building, commerce solutions, 
+productivity solutions) 
+• Core Platform (Core), which primarily consists of sales of domain registrations and renewals, aftermarket domain sales, 
+domain protection, website hosting products and website security products. 
+
+[Chunk 2 — Lyft 10-K excerpt]
+Our transportation network is primarily comprised of:
+• Ridesharing Marketplace: connecting drivers with riders 
+• Express Drive: our car rental program 
+• Light Vehicles: shared bikes and scooters 
+We also connect users with micromobility, rentals, public transit, taxis, and more. We believe our scale allows for better consumer 
+experiences and Drivers with better earnings opportunities.","Lyft (Chunk 2) mentions micromobility, rentals, and carsharing. GoDaddy (Chunk 1) focuses on “domain registrations, hosting products, and website security products” in its Core Platform segment."
+"From the disclosures in Uber and Lyft, which specifically lists “Mobility, Delivery, and Freight” as operating segments, and which says it organizes its business around “Applications and Commerce” and “Core Platform” segments?","[Chunk 1 — Uber 10-K excerpt]
+As of December 31, 2024, we had three operating and reportable segments: Mobility, Delivery and Freight. Mobility, Delivery and 
+Freight platform offerings each address large, fragmented markets. Mobility also includes activity related to our financial partnerships 
+products and advertising. 
+
+[Chunk 2 — Lyft 10-K excerpt]
+We manage and report our business in two segments: 
+• Applications and Commerce, which includes proprietary software offerings 
+• Core Platform, which primarily consists of domain registrations, hosting products, website security, and more","Uber has three segments: Mobility, Delivery, and Freight. GoDaddy references “Applications and Commerce” and “Core Platform.” The second chunk is incorrectly labeled as Lyft but pertains to GoDaddy's segment disclosure."
+"From Uber and Shopify, which specifically cites integrating with “public transportation networks,” and which references “meal preparation, grocery and other delivery services”?","[Chunk 1 — Uber 10-K excerpt]
+We also connect consumers with public transportation networks. We use our global network, technology and expertise to connect 
+users, powering movement from point A to point B. We aim to reduce friction by leveraging marketplace technologies, dispatch 
+and pricing algorithms, and route optimization to provide ridesharing and other mobility solutions, including integration with 
+public transit.
+
+[Chunk 2 — Shopify 10-K excerpt]
+Our Delivery offering allows consumers to search for and discover the best of local commerce—from restaurants to grocery, alcohol, 
+convenience, and other retailers—order a meal or other items, and either pick-up at the restaurant or have it delivered. We also 
+connect users with third-party email marketing tools and merchant websites.","Uber (Chunk 1) explicitly cites integrating with “public transportation networks.” Shopify (Chunk 2) references “meal preparation, grocery and other delivery services.”"
+"From Shopify and GoDaddy, which one indicates it invests in AI tools like “Airo” to assist in domain searches and marketing, and which one states that it invests primarily in “machine learning” for improved commerce performance?","[Chunk 1 — Shopify 10-K excerpt]
+We are making substantial investments in new offerings and technologies, and may increase such investments in the future. We continue 
+to develop new technologies to enhance existing offerings and to expand the range of our offerings through research and development. 
+We expect to continue leveraging data analytics, machine learning, and AI in our products, to help our merchants increase productivity 
+and improve workflows across a variety of commerce-related use cases.
+
+[Chunk 2 — GoDaddy 10-K excerpt]
+At GoDaddy, we believe our customers should have both great technology and great support. With AI-powered experiences such as Airo 
+and our GoDaddy Guides, we can provide intelligent, proactive experiences within our solutions. Airo can help small businesses with 
+logo creation, domain searches, website content, marketing campaigns, and more.",Shopify specifically highlights investments in machine learning for enhanced commerce performance. GoDaddy references “Airo” as an AI-powered experience that assists with domains and marketing.
